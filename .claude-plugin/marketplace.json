@@ -1,0 +1,21 @@
+{
+  "name": "chronicle-makers-genealogy",
+  "owner": {
+    "name": "Denyse Allen / Chronicle Makers"
+  },
+  "metadata": {
+    "description": "Retired. This marketplace no longer distributes a working plugin."
+  },
+  "plugins": [
+    {
+      "name": "genealogy-research-analyst",
+      "source": "./",
+      "description": "Retired. This plugin has been withdrawn and no longer runs.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Denyse Allen / Chronicle Makers"
+      },
+      "homepage": "https://chroniclemakers.com"
+    }
+  ]
+}
